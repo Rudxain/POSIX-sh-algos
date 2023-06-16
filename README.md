@@ -7,3 +7,4 @@
 - https://github.com/TheAlgorithms
 - https://github.com/krebs/array
 - https://gitlab.com/rindeal/xxHashish
+- [gcd.sh (Gist)](https://gist.github.com/Rudxain/16e413b423adcb45157de7f4b737cd0d])
